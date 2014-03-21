@@ -2,7 +2,7 @@
 //  Recorrido.h
 //  SemanaSantaApp
 //
-//  Created by Jose Maria on 18/03/14.
+//  Created by Jose Maria on 21/03/14.
 //  Copyright (c) 2014 Kometasoft. All rights reserved.
 //
 
@@ -15,6 +15,7 @@
 
 @property (nonatomic, retain) NSString * hora;
 @property (nonatomic, retain) NSString * lugar;
+@property (nonatomic, retain) NSNumber * idHermandad;
 @property (nonatomic, retain) Hermandades *hermandadesD;
 
 @end
