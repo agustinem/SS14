@@ -14,7 +14,6 @@
 		3803C57718D2FFC2007D6A32 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3803C57518D2FFC2007D6A32 /* InfoPlist.strings */; };
 		3803C57918D2FFC2007D6A32 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3803C57818D2FFC2007D6A32 /* main.m */; };
 		3803C57D18D2FFC2007D6A32 /* SSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3803C57C18D2FFC2007D6A32 /* SSAppDelegate.m */; };
-		3803C58018D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3803C57E18D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodeld */; };
 		3803C58918D2FFC3007D6A32 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3803C58818D2FFC3007D6A32 /* XCTest.framework */; };
 		3803C58A18D2FFC3007D6A32 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3803C56A18D2FFC2007D6A32 /* Foundation.framework */; };
 		3803C58B18D2FFC3007D6A32 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3803C56E18D2FFC2007D6A32 /* UIKit.framework */; };
@@ -33,10 +32,12 @@
 		383BCF9D18D715A80053FCC2 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = 383BCF9C18D715A80053FCC2 /* cachorro.png */; };
 		38B24FED18D62AED00BE991F /* SStwitterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 38B24FEC18D62AED00BE991F /* SStwitterViewController.m */; };
 		38B24FF018D62FC700BE991F /* SSenlacesWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 38B24FEF18D62FC700BE991F /* SSenlacesWebViewController.m */; };
-		38F66F7718D86B120070CE9B /* Hermandades.m in Sources */ = {isa = PBXBuildFile; fileRef = 38F66F7618D86B120070CE9B /* Hermandades.m */; };
-		38F66F7A18D86B130070CE9B /* Publicidad.m in Sources */ = {isa = PBXBuildFile; fileRef = 38F66F7918D86B130070CE9B /* Publicidad.m */; };
-		38F66F7D18D86B130070CE9B /* Recorrido.m in Sources */ = {isa = PBXBuildFile; fileRef = 38F66F7C18D86B130070CE9B /* Recorrido.m */; };
-		38F66F8018D86B130070CE9B /* Dias.m in Sources */ = {isa = PBXBuildFile; fileRef = 38F66F7F18D86B130070CE9B /* Dias.m */; };
+		38C41A0718DC8140007E8050 /* Hermandad.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C419FE18DC8140007E8050 /* Hermandad.m */; };
+		38C41A0818DC8140007E8050 /* Patrocinador.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C41A0118DC8140007E8050 /* Patrocinador.m */; };
+		38C41A0918DC8140007E8050 /* Recorrido.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C41A0218DC8140007E8050 /* Recorrido.m */; };
+		38C41A0A18DC8140007E8050 /* Publicidad.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C41A0418DC8140007E8050 /* Publicidad.m */; };
+		38C41A0B18DC8140007E8050 /* IniciarBaseDatos.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C41A0618DC8140007E8050 /* IniciarBaseDatos.m */; };
+		38C41A0D18DC8154007E8050 /* SemanaSantaApp.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = 38C41A0C18DC8154007E8050 /* SemanaSantaApp.xcdatamodel */; };
 		D746FD5318D8C0B900EBA6E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D746FD5218D8C0B900EBA6E7 /* Images.xcassets */; };
 		D746FD5518D8EA5800EBA6E7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D746FD5418D8EA5800EBA6E7 /* AVFoundation.framework */; };
 		D75E75B218D874210012F71E /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D75E75B118D874210012F71E /* Storyboard.storyboard */; };
@@ -106,7 +107,6 @@
 		3803C57A18D2FFC2007D6A32 /* SemanaSantaApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SemanaSantaApp-Prefix.pch"; sourceTree = "<group>"; };
 		3803C57B18D2FFC2007D6A32 /* SSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SSAppDelegate.h; sourceTree = "<group>"; };
 		3803C57C18D2FFC2007D6A32 /* SSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SSAppDelegate.m; sourceTree = "<group>"; };
-		3803C57F18D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SemanaSantaApp.xcdatamodel; sourceTree = "<group>"; };
 		3803C58718D2FFC3007D6A32 /* SemanaSantaAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SemanaSantaAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3803C58818D2FFC3007D6A32 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		3803C59118D2FFC3007D6A32 /* SemanaSantaAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SemanaSantaAppTests-Info.plist"; sourceTree = "<group>"; };
@@ -131,14 +131,17 @@
 		38B24FEC18D62AED00BE991F /* SStwitterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SStwitterViewController.m; sourceTree = "<group>"; };
 		38B24FEE18D62FC700BE991F /* SSenlacesWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SSenlacesWebViewController.h; path = ../SSenlacesWebViewController.h; sourceTree = "<group>"; };
 		38B24FEF18D62FC700BE991F /* SSenlacesWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SSenlacesWebViewController.m; path = ../SSenlacesWebViewController.m; sourceTree = "<group>"; };
-		38F66F7518D86B120070CE9B /* Hermandades.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hermandades.h; sourceTree = "<group>"; };
-		38F66F7618D86B120070CE9B /* Hermandades.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hermandades.m; sourceTree = "<group>"; };
-		38F66F7818D86B130070CE9B /* Publicidad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Publicidad.h; sourceTree = "<group>"; };
-		38F66F7918D86B130070CE9B /* Publicidad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Publicidad.m; sourceTree = "<group>"; };
-		38F66F7B18D86B130070CE9B /* Recorrido.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Recorrido.h; sourceTree = "<group>"; };
-		38F66F7C18D86B130070CE9B /* Recorrido.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Recorrido.m; sourceTree = "<group>"; };
-		38F66F7E18D86B130070CE9B /* Dias.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dias.h; sourceTree = "<group>"; };
-		38F66F7F18D86B130070CE9B /* Dias.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dias.m; sourceTree = "<group>"; };
+		38C419FD18DC8140007E8050 /* Hermandad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hermandad.h; sourceTree = "<group>"; };
+		38C419FE18DC8140007E8050 /* Hermandad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hermandad.m; sourceTree = "<group>"; };
+		38C419FF18DC8140007E8050 /* Recorrido.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Recorrido.h; sourceTree = "<group>"; };
+		38C41A0018DC8140007E8050 /* Patrocinador.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Patrocinador.h; sourceTree = "<group>"; };
+		38C41A0118DC8140007E8050 /* Patrocinador.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Patrocinador.m; sourceTree = "<group>"; };
+		38C41A0218DC8140007E8050 /* Recorrido.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Recorrido.m; sourceTree = "<group>"; };
+		38C41A0318DC8140007E8050 /* Publicidad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Publicidad.h; sourceTree = "<group>"; };
+		38C41A0418DC8140007E8050 /* Publicidad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Publicidad.m; sourceTree = "<group>"; };
+		38C41A0518DC8140007E8050 /* IniciarBaseDatos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IniciarBaseDatos.h; sourceTree = "<group>"; };
+		38C41A0618DC8140007E8050 /* IniciarBaseDatos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IniciarBaseDatos.m; sourceTree = "<group>"; };
+		38C41A0C18DC8154007E8050 /* SemanaSantaApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SemanaSantaApp.xcdatamodel; sourceTree = "<group>"; };
 		D746FD5218D8C0B900EBA6E7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D746FD5418D8EA5800EBA6E7 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		D75E75B118D874210012F71E /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
@@ -298,11 +301,11 @@
 			isa = PBXGroup;
 			children = (
 				D746FD5218D8C0B900EBA6E7 /* Images.xcassets */,
+				38C41A0C18DC8154007E8050 /* SemanaSantaApp.xcdatamodel */,
 				D75E75B118D874210012F71E /* Storyboard.storyboard */,
 				3803C57B18D2FFC2007D6A32 /* SSAppDelegate.h */,
 				3803C57C18D2FFC2007D6A32 /* SSAppDelegate.m */,
 				D75E75B318D8820C0012F71E /* ViewPublicidad.xib */,
-				3803C57E18D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodeld */,
 				3803C57318D2FFC2007D6A32 /* Supporting Files */,
 			);
 			path = SemanaSantaApp;
@@ -389,14 +392,16 @@
 		38BBDF8F18D4DDCF00A2E9AF /* BaseDatos */ = {
 			isa = PBXGroup;
 			children = (
-				38F66F7E18D86B130070CE9B /* Dias.h */,
-				38F66F7F18D86B130070CE9B /* Dias.m */,
-				38F66F7B18D86B130070CE9B /* Recorrido.h */,
-				38F66F7C18D86B130070CE9B /* Recorrido.m */,
-				38F66F7818D86B130070CE9B /* Publicidad.h */,
-				38F66F7918D86B130070CE9B /* Publicidad.m */,
-				38F66F7518D86B120070CE9B /* Hermandades.h */,
-				38F66F7618D86B120070CE9B /* Hermandades.m */,
+				38C419FD18DC8140007E8050 /* Hermandad.h */,
+				38C419FE18DC8140007E8050 /* Hermandad.m */,
+				38C419FF18DC8140007E8050 /* Recorrido.h */,
+				38C41A0018DC8140007E8050 /* Patrocinador.h */,
+				38C41A0118DC8140007E8050 /* Patrocinador.m */,
+				38C41A0218DC8140007E8050 /* Recorrido.m */,
+				38C41A0318DC8140007E8050 /* Publicidad.h */,
+				38C41A0418DC8140007E8050 /* Publicidad.m */,
+				38C41A0518DC8140007E8050 /* IniciarBaseDatos.h */,
+				38C41A0618DC8140007E8050 /* IniciarBaseDatos.m */,
 			);
 			name = BaseDatos;
 			path = SemanaSantaApp;
@@ -631,7 +636,9 @@
 			files = (
 				D7B95F2918DC802A00014CBD /* CXMLDocument_PrivateExtensions.m in Sources */,
 				D7B95F2518DC802A00014CBD /* CTidy.m in Sources */,
+				38C41A0A18DC8140007E8050 /* Publicidad.m in Sources */,
 				3830D32818D568C000CA9770 /* SSdatosHermandadViewController.m in Sources */,
+				38C41A0818DC8140007E8050 /* Patrocinador.m in Sources */,
 				D7B95F3018DC802A00014CBD /* CXMLNode_PrivateExtensions.m in Sources */,
 				D7B95F1D18DC802A00014CBD /* SoapHandler.m in Sources */,
 				38B24FED18D62AED00BE991F /* SStwitterViewController.m in Sources */,
@@ -640,26 +647,26 @@
 				D7B95F2E18DC802A00014CBD /* CXMLNode.m in Sources */,
 				D7B95F1818DC802A00014CBD /* NSMutableArray+Soap.m in Sources */,
 				D7B95F1B18DC802A00014CBD /* SoapDictionary.m in Sources */,
-				38F66F8018D86B130070CE9B /* Dias.m in Sources */,
 				D7B95F0F18DC802A00014CBD /* SSArrayOfRecorrido.m in Sources */,
-				38F66F7718D86B120070CE9B /* Hermandades.m in Sources */,
 				D7B95F2218DC802A00014CBD /* SoapReachability.m in Sources */,
 				D7B95F2F18DC802A00014CBD /* CXMLNode_CreationExtensions.m in Sources */,
 				D7B95F0A18DC802A00014CBD /* Soap+Prefix.m in Sources */,
 				D7B95F1518DC802A00014CBD /* SSSudzc.m in Sources */,
+				38C41A0B18DC8140007E8050 /* IniciarBaseDatos.m in Sources */,
+				38C41A0D18DC8154007E8050 /* SemanaSantaApp.xcdatamodel in Sources */,
 				3803C5F818D32436007D6A32 /* SSenlacesViewController.m in Sources */,
-				38F66F7D18D86B130070CE9B /* Recorrido.m in Sources */,
 				D7B95F2C18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.m in Sources */,
 				383BCF9918D711C80053FCC2 /* SSrecorridoViewController.m in Sources */,
 				D7B95F1418DC802A00014CBD /* SSRecorridoWS.m in Sources */,
 				38B24FF018D62FC700BE991F /* SSenlacesWebViewController.m in Sources */,
 				D7B95F1618DC802A00014CBD /* SSWsclassService.m in Sources */,
+				38C41A0718DC8140007E8050 /* Hermandad.m in Sources */,
 				D7B95F1C18DC802A00014CBD /* SoapFault.m in Sources */,
-				38F66F7A18D86B130070CE9B /* Publicidad.m in Sources */,
 				D7B95F1218DC802A00014CBD /* SSPatrocinadorWS.m in Sources */,
 				D7B95F0D18DC802A00014CBD /* SSArrayOfPublicidad.m in Sources */,
 				D7B95F0E18DC802A00014CBD /* SSArrayOfPublicidadws.m in Sources */,
 				D7B95F0B18DC802A00014CBD /* SSArrayOfHermandad.m in Sources */,
+				38C41A0918DC8140007E8050 /* Recorrido.m in Sources */,
 				D7B95F2418DC802A00014CBD /* SoapService.m in Sources */,
 				D7B95F2718DC802A00014CBD /* CXMLDocument.m in Sources */,
 				3803C5A318D307BA007D6A32 /* SSdiasViewController.m in Sources */,
@@ -669,7 +676,6 @@
 				D7B95F0918DC802A00014CBD /* SSWsclassServiceExample.m in Sources */,
 				D7B95F3118DC802A00014CBD /* CXMLNode_XPathExtensions.m in Sources */,
 				D7B95F2118DC802A00014CBD /* SoapParameter.m in Sources */,
-				3803C58018D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodeld in Sources */,
 				D7B95F2B18DC802A00014CBD /* CXMLElement_CreationExtensions.m in Sources */,
 				D7B95F1A18DC802A00014CBD /* SoapArray.m in Sources */,
 				D7B95F1E18DC802A00014CBD /* SoapLiteral.m in Sources */,
@@ -894,19 +900,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		3803C57E18D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				3803C57F18D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodel */,
-			);
-			currentVersion = 3803C57F18D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodel */;
-			path = SemanaSantaApp.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 3803C55F18D2FFC2007D6A32 /* Project object */;
 }

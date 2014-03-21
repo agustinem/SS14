@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="13C64" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Hermandad" representedClassName="Hermandad" syncable="YES">
+        <attribute name="banda" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="capataz" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="descripcion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="diaSalida" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hermanos" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="idH" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="imagen" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombre" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="publicidad" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Publicidad" inverseName="hermandad" inverseEntity="Publicidad" syncable="YES"/>
+        <relationship name="recorridos" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Recorrido" inverseName="hermandadesD" inverseEntity="Recorrido" syncable="YES"/>
+    </entity>
+    <entity name="Patrocinador" representedClassName="Patrocinador" syncable="YES">
+        <attribute name="banner" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idPA" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="imagen" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Publicidad" representedClassName="Publicidad" syncable="YES">
+        <attribute name="horaDesde" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="horaHasta" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="idHermandad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idP" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nivel" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pesoF" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pesoI" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="texto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tipo" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="hermandad" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Hermandad" inverseName="publicidad" inverseEntity="Hermandad" syncable="YES"/>
+    </entity>
+    <entity name="Recorrido" representedClassName="Recorrido" syncable="YES">
+        <attribute name="hora" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idHermandad" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="lugar" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="hermandadesD" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Hermandad" inverseName="recorridos" inverseEntity="Hermandad" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Hermandad" positionX="-776" positionY="153" width="128" height="193"/>
+        <element name="Publicidad" positionX="-515" positionY="306" width="128" height="193"/>
+        <element name="Recorrido" positionX="-1017" positionY="315" width="128" height="103"/>
+        <element name="Patrocinador" positionX="-765" positionY="551" width="128" height="88"/>
+    </elements>
+</model>
