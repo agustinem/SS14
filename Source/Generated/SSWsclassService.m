@@ -88,16 +88,17 @@
 
 	// Returns SSArrayOfPublicidad*
 	/* Obtiene las publicidades */
-	- (SoapRequest*) getPublicidades: (id <SoapDelegate>) handler offset: (int) offset
+	- (SoapRequest*) getPublicidades: (id <SoapDelegate>) handler offset: (int) offset lastId: (int) lastId
 	{
-		return [self getPublicidades: handler action: nil offset: offset];
+		return [self getPublicidades: handler action: nil offset: offset lastId: lastId];
 	}
 
-	- (SoapRequest*) getPublicidades: (id) _target action: (SEL) _action offset: (int) offset
+	- (SoapRequest*) getPublicidades: (id) _target action: (SEL) _action offset: (int) offset lastId: (int) lastId
 		{
 		NSMutableArray* _params = [NSMutableArray array];
 		
 		[_params addObject: [[SoapParameter alloc] initWithValue: [NSNumber numberWithInt: offset] forName: @"offset"]];
+		[_params addObject: [[SoapParameter alloc] initWithValue: [NSNumber numberWithInt: lastId] forName: @"lastId"]];
 		NSString* _envelope = [Soap createEnvelope: @"getPublicidades" forNamespace: self.namespace withParameters: _params withHeaders: self.headers];
 		SoapRequest* _request = [SoapRequest create: _target action: _action service: self soapAction: @"http://semanasanta.kometasoft.com/soapserver.php#getPublicidades" postData: _envelope deserializeTo: [SSArrayOfPublicidad alloc]];
 		[_request send];

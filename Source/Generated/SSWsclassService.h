@@ -35,8 +35,8 @@
 
 	// Returns SSArrayOfPublicidad*
 	/* Obtiene las publicidades */
-	- (SoapRequest*) getPublicidades: (id <SoapDelegate>) handler offset: (int) offset;
-	- (SoapRequest*) getPublicidades: (id) target action: (SEL) action offset: (int) offset;
+	- (SoapRequest*) getPublicidades: (id <SoapDelegate>) handler offset: (int) offset lastId: (int) lastId;
+	- (SoapRequest*) getPublicidades: (id) target action: (SEL) action offset: (int) offset lastId: (int) lastId;
 
 	// Returns SSPatrocinadorWS*
 	/* Obtiene el patrocinador si hay */
