@@ -41,47 +41,47 @@
 		D746FD5518D8EA5800EBA6E7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D746FD5418D8EA5800EBA6E7 /* AVFoundation.framework */; };
 		D75E75B218D874210012F71E /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D75E75B118D874210012F71E /* Storyboard.storyboard */; };
 		D75E75B418D8820C0012F71E /* ViewPublicidad.xib in Resources */ = {isa = PBXBuildFile; fileRef = D75E75B318D8820C0012F71E /* ViewPublicidad.xib */; };
-		D7B95E0218DC72A900014CBD /* Soap+Prefix.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DAF18DC72A900014CBD /* Soap+Prefix.m */; };
-		D7B95E0318DC72A900014CBD /* SSArrayOfHermandad.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DB118DC72A900014CBD /* SSArrayOfHermandad.m */; };
-		D7B95E0418DC72A900014CBD /* SSArrayOfHermandadws.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DB318DC72A900014CBD /* SSArrayOfHermandadws.m */; };
-		D7B95E0518DC72A900014CBD /* SSArrayOfPublicidad.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DB518DC72A900014CBD /* SSArrayOfPublicidad.m */; };
-		D7B95E0618DC72A900014CBD /* SSArrayOfPublicidadws.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DB718DC72A900014CBD /* SSArrayOfPublicidadws.m */; };
-		D7B95E0718DC72A900014CBD /* SSArrayOfRecorrido.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DB918DC72A900014CBD /* SSArrayOfRecorrido.m */; };
-		D7B95E0818DC72A900014CBD /* SSArrayOfRecorridows.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DBB18DC72A900014CBD /* SSArrayOfRecorridows.m */; };
-		D7B95E0918DC72A900014CBD /* SSHermandadWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DBD18DC72A900014CBD /* SSHermandadWS.m */; };
-		D7B95E0A18DC72A900014CBD /* SSPatrocinadorWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DBF18DC72A900014CBD /* SSPatrocinadorWS.m */; };
-		D7B95E0B18DC72A900014CBD /* SSPublicidadWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DC118DC72A900014CBD /* SSPublicidadWS.m */; };
-		D7B95E0C18DC72A900014CBD /* SSRecorridoWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DC318DC72A900014CBD /* SSRecorridoWS.m */; };
-		D7B95E0D18DC72A900014CBD /* SSSudzc.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DC518DC72A900014CBD /* SSSudzc.m */; };
-		D7B95E0E18DC72A900014CBD /* SSWsclassService.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DC718DC72A900014CBD /* SSWsclassService.m */; };
-		D7B95E0F18DC72A900014CBD /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DCA18DC72A900014CBD /* NSData+Base64.m */; };
-		D7B95E1018DC72A900014CBD /* NSMutableArray+Soap.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DCC18DC72A900014CBD /* NSMutableArray+Soap.m */; };
-		D7B95E1118DC72A900014CBD /* Soap.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DCE18DC72A900014CBD /* Soap.m */; };
-		D7B95E1218DC72A900014CBD /* SoapArray.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DD018DC72A900014CBD /* SoapArray.m */; };
-		D7B95E1318DC72A900014CBD /* SoapDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DD318DC72A900014CBD /* SoapDictionary.m */; };
-		D7B95E1418DC72A900014CBD /* SoapFault.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DD518DC72A900014CBD /* SoapFault.m */; };
-		D7B95E1518DC72A900014CBD /* SoapHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DD718DC72A900014CBD /* SoapHandler.m */; };
-		D7B95E1618DC72A900014CBD /* SoapLiteral.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DD918DC72A900014CBD /* SoapLiteral.m */; };
-		D7B95E1718DC72A900014CBD /* SoapNil.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DDB18DC72A900014CBD /* SoapNil.m */; };
-		D7B95E1818DC72A900014CBD /* SoapObject.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DDD18DC72A900014CBD /* SoapObject.m */; };
-		D7B95E1918DC72A900014CBD /* SoapParameter.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DDF18DC72A900014CBD /* SoapParameter.m */; };
-		D7B95E1A18DC72A900014CBD /* SoapReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DE118DC72A900014CBD /* SoapReachability.m */; };
-		D7B95E1B18DC72A900014CBD /* SoapRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DE318DC72A900014CBD /* SoapRequest.m */; };
-		D7B95E1C18DC72A900014CBD /* SoapService.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DE518DC72A900014CBD /* SoapService.m */; };
-		D7B95E1D18DC72A900014CBD /* CTidy.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DE818DC72A900014CBD /* CTidy.m */; };
-		D7B95E1E18DC72A900014CBD /* CXHTMLDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DEA18DC72A900014CBD /* CXHTMLDocument.m */; };
-		D7B95E1F18DC72A900014CBD /* CXMLDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DEC18DC72A900014CBD /* CXMLDocument.m */; };
-		D7B95E2018DC72A900014CBD /* CXMLDocument_CreationExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DEE18DC72A900014CBD /* CXMLDocument_CreationExtensions.m */; };
-		D7B95E2118DC72A900014CBD /* CXMLDocument_PrivateExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DF018DC72A900014CBD /* CXMLDocument_PrivateExtensions.m */; };
-		D7B95E2218DC72A900014CBD /* CXMLElement.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DF218DC72A900014CBD /* CXMLElement.m */; };
-		D7B95E2318DC72A900014CBD /* CXMLElement_CreationExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DF418DC72A900014CBD /* CXMLElement_CreationExtensions.m */; };
-		D7B95E2418DC72A900014CBD /* CXMLElement_ElementTreeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DF618DC72A900014CBD /* CXMLElement_ElementTreeExtensions.m */; };
-		D7B95E2518DC72A900014CBD /* CXMLNamespaceNode.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DF818DC72A900014CBD /* CXMLNamespaceNode.m */; };
-		D7B95E2618DC72A900014CBD /* CXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DFA18DC72A900014CBD /* CXMLNode.m */; };
-		D7B95E2718DC72A900014CBD /* CXMLNode_CreationExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DFC18DC72A900014CBD /* CXMLNode_CreationExtensions.m */; };
-		D7B95E2818DC72A900014CBD /* CXMLNode_PrivateExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95DFE18DC72A900014CBD /* CXMLNode_PrivateExtensions.m */; };
-		D7B95E2918DC72A900014CBD /* CXMLNode_XPathExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95E0018DC72A900014CBD /* CXMLNode_XPathExtensions.m */; };
-		D7B95E2D18DC72B700014CBD /* SSWsclassServiceExample.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95E2C18DC72B700014CBD /* SSWsclassServiceExample.m */; };
+		D7B95F0918DC802A00014CBD /* SSWsclassServiceExample.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EB318DC802A00014CBD /* SSWsclassServiceExample.m */; };
+		D7B95F0A18DC802A00014CBD /* Soap+Prefix.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EB618DC802A00014CBD /* Soap+Prefix.m */; };
+		D7B95F0B18DC802A00014CBD /* SSArrayOfHermandad.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EB818DC802A00014CBD /* SSArrayOfHermandad.m */; };
+		D7B95F0C18DC802A00014CBD /* SSArrayOfHermandadws.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EBA18DC802A00014CBD /* SSArrayOfHermandadws.m */; };
+		D7B95F0D18DC802A00014CBD /* SSArrayOfPublicidad.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EBC18DC802A00014CBD /* SSArrayOfPublicidad.m */; };
+		D7B95F0E18DC802A00014CBD /* SSArrayOfPublicidadws.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EBE18DC802A00014CBD /* SSArrayOfPublicidadws.m */; };
+		D7B95F0F18DC802A00014CBD /* SSArrayOfRecorrido.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EC018DC802A00014CBD /* SSArrayOfRecorrido.m */; };
+		D7B95F1018DC802A00014CBD /* SSArrayOfRecorridows.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EC218DC802A00014CBD /* SSArrayOfRecorridows.m */; };
+		D7B95F1118DC802A00014CBD /* SSHermandadWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EC418DC802A00014CBD /* SSHermandadWS.m */; };
+		D7B95F1218DC802A00014CBD /* SSPatrocinadorWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EC618DC802A00014CBD /* SSPatrocinadorWS.m */; };
+		D7B95F1318DC802A00014CBD /* SSPublicidadWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EC818DC802A00014CBD /* SSPublicidadWS.m */; };
+		D7B95F1418DC802A00014CBD /* SSRecorridoWS.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95ECA18DC802A00014CBD /* SSRecorridoWS.m */; };
+		D7B95F1518DC802A00014CBD /* SSSudzc.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95ECC18DC802A00014CBD /* SSSudzc.m */; };
+		D7B95F1618DC802A00014CBD /* SSWsclassService.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95ECE18DC802A00014CBD /* SSWsclassService.m */; };
+		D7B95F1718DC802A00014CBD /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95ED118DC802A00014CBD /* NSData+Base64.m */; };
+		D7B95F1818DC802A00014CBD /* NSMutableArray+Soap.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95ED318DC802A00014CBD /* NSMutableArray+Soap.m */; };
+		D7B95F1918DC802A00014CBD /* Soap.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95ED518DC802A00014CBD /* Soap.m */; };
+		D7B95F1A18DC802A00014CBD /* SoapArray.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95ED718DC802A00014CBD /* SoapArray.m */; };
+		D7B95F1B18DC802A00014CBD /* SoapDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EDA18DC802A00014CBD /* SoapDictionary.m */; };
+		D7B95F1C18DC802A00014CBD /* SoapFault.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EDC18DC802A00014CBD /* SoapFault.m */; };
+		D7B95F1D18DC802A00014CBD /* SoapHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EDE18DC802A00014CBD /* SoapHandler.m */; };
+		D7B95F1E18DC802A00014CBD /* SoapLiteral.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EE018DC802A00014CBD /* SoapLiteral.m */; };
+		D7B95F1F18DC802A00014CBD /* SoapNil.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EE218DC802A00014CBD /* SoapNil.m */; };
+		D7B95F2018DC802A00014CBD /* SoapObject.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EE418DC802A00014CBD /* SoapObject.m */; };
+		D7B95F2118DC802A00014CBD /* SoapParameter.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EE618DC802A00014CBD /* SoapParameter.m */; };
+		D7B95F2218DC802A00014CBD /* SoapReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EE818DC802A00014CBD /* SoapReachability.m */; };
+		D7B95F2318DC802A00014CBD /* SoapRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EEA18DC802A00014CBD /* SoapRequest.m */; };
+		D7B95F2418DC802A00014CBD /* SoapService.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EEC18DC802A00014CBD /* SoapService.m */; };
+		D7B95F2518DC802A00014CBD /* CTidy.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EEF18DC802A00014CBD /* CTidy.m */; };
+		D7B95F2618DC802A00014CBD /* CXHTMLDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EF118DC802A00014CBD /* CXHTMLDocument.m */; };
+		D7B95F2718DC802A00014CBD /* CXMLDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EF318DC802A00014CBD /* CXMLDocument.m */; };
+		D7B95F2818DC802A00014CBD /* CXMLDocument_CreationExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EF518DC802A00014CBD /* CXMLDocument_CreationExtensions.m */; };
+		D7B95F2918DC802A00014CBD /* CXMLDocument_PrivateExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EF718DC802A00014CBD /* CXMLDocument_PrivateExtensions.m */; };
+		D7B95F2A18DC802A00014CBD /* CXMLElement.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EF918DC802A00014CBD /* CXMLElement.m */; };
+		D7B95F2B18DC802A00014CBD /* CXMLElement_CreationExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EFB18DC802A00014CBD /* CXMLElement_CreationExtensions.m */; };
+		D7B95F2C18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EFD18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.m */; };
+		D7B95F2D18DC802A00014CBD /* CXMLNamespaceNode.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95EFF18DC802A00014CBD /* CXMLNamespaceNode.m */; };
+		D7B95F2E18DC802A00014CBD /* CXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95F0118DC802A00014CBD /* CXMLNode.m */; };
+		D7B95F2F18DC802A00014CBD /* CXMLNode_CreationExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95F0318DC802A00014CBD /* CXMLNode_CreationExtensions.m */; };
+		D7B95F3018DC802A00014CBD /* CXMLNode_PrivateExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95F0518DC802A00014CBD /* CXMLNode_PrivateExtensions.m */; };
+		D7B95F3118DC802A00014CBD /* CXMLNode_XPathExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7B95F0718DC802A00014CBD /* CXMLNode_XPathExtensions.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -143,90 +143,90 @@
 		D746FD5418D8EA5800EBA6E7 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		D75E75B118D874210012F71E /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		D75E75B318D8820C0012F71E /* ViewPublicidad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewPublicidad.xib; sourceTree = "<group>"; };
-		D7B95DAE18DC72A900014CBD /* Soap+Prefix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Soap+Prefix.h"; sourceTree = "<group>"; };
-		D7B95DAF18DC72A900014CBD /* Soap+Prefix.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Soap+Prefix.m"; sourceTree = "<group>"; };
-		D7B95DB018DC72A900014CBD /* SSArrayOfHermandad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfHermandad.h; sourceTree = "<group>"; };
-		D7B95DB118DC72A900014CBD /* SSArrayOfHermandad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfHermandad.m; sourceTree = "<group>"; };
-		D7B95DB218DC72A900014CBD /* SSArrayOfHermandadws.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfHermandadws.h; sourceTree = "<group>"; };
-		D7B95DB318DC72A900014CBD /* SSArrayOfHermandadws.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfHermandadws.m; sourceTree = "<group>"; };
-		D7B95DB418DC72A900014CBD /* SSArrayOfPublicidad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfPublicidad.h; sourceTree = "<group>"; };
-		D7B95DB518DC72A900014CBD /* SSArrayOfPublicidad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfPublicidad.m; sourceTree = "<group>"; };
-		D7B95DB618DC72A900014CBD /* SSArrayOfPublicidadws.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfPublicidadws.h; sourceTree = "<group>"; };
-		D7B95DB718DC72A900014CBD /* SSArrayOfPublicidadws.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfPublicidadws.m; sourceTree = "<group>"; };
-		D7B95DB818DC72A900014CBD /* SSArrayOfRecorrido.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfRecorrido.h; sourceTree = "<group>"; };
-		D7B95DB918DC72A900014CBD /* SSArrayOfRecorrido.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfRecorrido.m; sourceTree = "<group>"; };
-		D7B95DBA18DC72A900014CBD /* SSArrayOfRecorridows.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfRecorridows.h; sourceTree = "<group>"; };
-		D7B95DBB18DC72A900014CBD /* SSArrayOfRecorridows.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfRecorridows.m; sourceTree = "<group>"; };
-		D7B95DBC18DC72A900014CBD /* SSHermandadWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSHermandadWS.h; sourceTree = "<group>"; };
-		D7B95DBD18DC72A900014CBD /* SSHermandadWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSHermandadWS.m; sourceTree = "<group>"; };
-		D7B95DBE18DC72A900014CBD /* SSPatrocinadorWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPatrocinadorWS.h; sourceTree = "<group>"; };
-		D7B95DBF18DC72A900014CBD /* SSPatrocinadorWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPatrocinadorWS.m; sourceTree = "<group>"; };
-		D7B95DC018DC72A900014CBD /* SSPublicidadWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPublicidadWS.h; sourceTree = "<group>"; };
-		D7B95DC118DC72A900014CBD /* SSPublicidadWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPublicidadWS.m; sourceTree = "<group>"; };
-		D7B95DC218DC72A900014CBD /* SSRecorridoWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSRecorridoWS.h; sourceTree = "<group>"; };
-		D7B95DC318DC72A900014CBD /* SSRecorridoWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSRecorridoWS.m; sourceTree = "<group>"; };
-		D7B95DC418DC72A900014CBD /* SSSudzc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSSudzc.h; sourceTree = "<group>"; };
-		D7B95DC518DC72A900014CBD /* SSSudzc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSSudzc.m; sourceTree = "<group>"; };
-		D7B95DC618DC72A900014CBD /* SSWsclassService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSWsclassService.h; sourceTree = "<group>"; };
-		D7B95DC718DC72A900014CBD /* SSWsclassService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSWsclassService.m; sourceTree = "<group>"; };
-		D7B95DC918DC72A900014CBD /* NSData+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Base64.h"; sourceTree = "<group>"; };
-		D7B95DCA18DC72A900014CBD /* NSData+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Base64.m"; sourceTree = "<group>"; };
-		D7B95DCB18DC72A900014CBD /* NSMutableArray+Soap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+Soap.h"; sourceTree = "<group>"; };
-		D7B95DCC18DC72A900014CBD /* NSMutableArray+Soap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+Soap.m"; sourceTree = "<group>"; };
-		D7B95DCD18DC72A900014CBD /* Soap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Soap.h; sourceTree = "<group>"; };
-		D7B95DCE18DC72A900014CBD /* Soap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Soap.m; sourceTree = "<group>"; };
-		D7B95DCF18DC72A900014CBD /* SoapArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapArray.h; sourceTree = "<group>"; };
-		D7B95DD018DC72A900014CBD /* SoapArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapArray.m; sourceTree = "<group>"; };
-		D7B95DD118DC72A900014CBD /* SoapDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapDelegate.h; sourceTree = "<group>"; };
-		D7B95DD218DC72A900014CBD /* SoapDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapDictionary.h; sourceTree = "<group>"; };
-		D7B95DD318DC72A900014CBD /* SoapDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapDictionary.m; sourceTree = "<group>"; };
-		D7B95DD418DC72A900014CBD /* SoapFault.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapFault.h; sourceTree = "<group>"; };
-		D7B95DD518DC72A900014CBD /* SoapFault.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapFault.m; sourceTree = "<group>"; };
-		D7B95DD618DC72A900014CBD /* SoapHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapHandler.h; sourceTree = "<group>"; };
-		D7B95DD718DC72A900014CBD /* SoapHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapHandler.m; sourceTree = "<group>"; };
-		D7B95DD818DC72A900014CBD /* SoapLiteral.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapLiteral.h; sourceTree = "<group>"; };
-		D7B95DD918DC72A900014CBD /* SoapLiteral.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapLiteral.m; sourceTree = "<group>"; };
-		D7B95DDA18DC72A900014CBD /* SoapNil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapNil.h; sourceTree = "<group>"; };
-		D7B95DDB18DC72A900014CBD /* SoapNil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapNil.m; sourceTree = "<group>"; };
-		D7B95DDC18DC72A900014CBD /* SoapObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapObject.h; sourceTree = "<group>"; };
-		D7B95DDD18DC72A900014CBD /* SoapObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapObject.m; sourceTree = "<group>"; };
-		D7B95DDE18DC72A900014CBD /* SoapParameter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapParameter.h; sourceTree = "<group>"; };
-		D7B95DDF18DC72A900014CBD /* SoapParameter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapParameter.m; sourceTree = "<group>"; };
-		D7B95DE018DC72A900014CBD /* SoapReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapReachability.h; sourceTree = "<group>"; };
-		D7B95DE118DC72A900014CBD /* SoapReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapReachability.m; sourceTree = "<group>"; };
-		D7B95DE218DC72A900014CBD /* SoapRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapRequest.h; sourceTree = "<group>"; };
-		D7B95DE318DC72A900014CBD /* SoapRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapRequest.m; sourceTree = "<group>"; };
-		D7B95DE418DC72A900014CBD /* SoapService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapService.h; sourceTree = "<group>"; };
-		D7B95DE518DC72A900014CBD /* SoapService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapService.m; sourceTree = "<group>"; };
-		D7B95DE718DC72A900014CBD /* CTidy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTidy.h; sourceTree = "<group>"; };
-		D7B95DE818DC72A900014CBD /* CTidy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTidy.m; sourceTree = "<group>"; };
-		D7B95DE918DC72A900014CBD /* CXHTMLDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXHTMLDocument.h; sourceTree = "<group>"; };
-		D7B95DEA18DC72A900014CBD /* CXHTMLDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXHTMLDocument.m; sourceTree = "<group>"; };
-		D7B95DEB18DC72A900014CBD /* CXMLDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLDocument.h; sourceTree = "<group>"; };
-		D7B95DEC18DC72A900014CBD /* CXMLDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLDocument.m; sourceTree = "<group>"; };
-		D7B95DED18DC72A900014CBD /* CXMLDocument_CreationExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLDocument_CreationExtensions.h; sourceTree = "<group>"; };
-		D7B95DEE18DC72A900014CBD /* CXMLDocument_CreationExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLDocument_CreationExtensions.m; sourceTree = "<group>"; };
-		D7B95DEF18DC72A900014CBD /* CXMLDocument_PrivateExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLDocument_PrivateExtensions.h; sourceTree = "<group>"; };
-		D7B95DF018DC72A900014CBD /* CXMLDocument_PrivateExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLDocument_PrivateExtensions.m; sourceTree = "<group>"; };
-		D7B95DF118DC72A900014CBD /* CXMLElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLElement.h; sourceTree = "<group>"; };
-		D7B95DF218DC72A900014CBD /* CXMLElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLElement.m; sourceTree = "<group>"; };
-		D7B95DF318DC72A900014CBD /* CXMLElement_CreationExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLElement_CreationExtensions.h; sourceTree = "<group>"; };
-		D7B95DF418DC72A900014CBD /* CXMLElement_CreationExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLElement_CreationExtensions.m; sourceTree = "<group>"; };
-		D7B95DF518DC72A900014CBD /* CXMLElement_ElementTreeExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLElement_ElementTreeExtensions.h; sourceTree = "<group>"; };
-		D7B95DF618DC72A900014CBD /* CXMLElement_ElementTreeExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLElement_ElementTreeExtensions.m; sourceTree = "<group>"; };
-		D7B95DF718DC72A900014CBD /* CXMLNamespaceNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNamespaceNode.h; sourceTree = "<group>"; };
-		D7B95DF818DC72A900014CBD /* CXMLNamespaceNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNamespaceNode.m; sourceTree = "<group>"; };
-		D7B95DF918DC72A900014CBD /* CXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode.h; sourceTree = "<group>"; };
-		D7B95DFA18DC72A900014CBD /* CXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode.m; sourceTree = "<group>"; };
-		D7B95DFB18DC72A900014CBD /* CXMLNode_CreationExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode_CreationExtensions.h; sourceTree = "<group>"; };
-		D7B95DFC18DC72A900014CBD /* CXMLNode_CreationExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode_CreationExtensions.m; sourceTree = "<group>"; };
-		D7B95DFD18DC72A900014CBD /* CXMLNode_PrivateExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode_PrivateExtensions.h; sourceTree = "<group>"; };
-		D7B95DFE18DC72A900014CBD /* CXMLNode_PrivateExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode_PrivateExtensions.m; sourceTree = "<group>"; };
-		D7B95DFF18DC72A900014CBD /* CXMLNode_XPathExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode_XPathExtensions.h; sourceTree = "<group>"; };
-		D7B95E0018DC72A900014CBD /* CXMLNode_XPathExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode_XPathExtensions.m; sourceTree = "<group>"; };
-		D7B95E0118DC72A900014CBD /* TouchXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchXML.h; sourceTree = "<group>"; };
-		D7B95E2B18DC72B700014CBD /* SSWsclassServiceExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSWsclassServiceExample.h; sourceTree = "<group>"; };
-		D7B95E2C18DC72B700014CBD /* SSWsclassServiceExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSWsclassServiceExample.m; sourceTree = "<group>"; };
+		D7B95EB218DC802A00014CBD /* SSWsclassServiceExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSWsclassServiceExample.h; sourceTree = "<group>"; };
+		D7B95EB318DC802A00014CBD /* SSWsclassServiceExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSWsclassServiceExample.m; sourceTree = "<group>"; };
+		D7B95EB518DC802A00014CBD /* Soap+Prefix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Soap+Prefix.h"; sourceTree = "<group>"; };
+		D7B95EB618DC802A00014CBD /* Soap+Prefix.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Soap+Prefix.m"; sourceTree = "<group>"; };
+		D7B95EB718DC802A00014CBD /* SSArrayOfHermandad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfHermandad.h; sourceTree = "<group>"; };
+		D7B95EB818DC802A00014CBD /* SSArrayOfHermandad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfHermandad.m; sourceTree = "<group>"; };
+		D7B95EB918DC802A00014CBD /* SSArrayOfHermandadws.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfHermandadws.h; sourceTree = "<group>"; };
+		D7B95EBA18DC802A00014CBD /* SSArrayOfHermandadws.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfHermandadws.m; sourceTree = "<group>"; };
+		D7B95EBB18DC802A00014CBD /* SSArrayOfPublicidad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfPublicidad.h; sourceTree = "<group>"; };
+		D7B95EBC18DC802A00014CBD /* SSArrayOfPublicidad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfPublicidad.m; sourceTree = "<group>"; };
+		D7B95EBD18DC802A00014CBD /* SSArrayOfPublicidadws.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfPublicidadws.h; sourceTree = "<group>"; };
+		D7B95EBE18DC802A00014CBD /* SSArrayOfPublicidadws.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfPublicidadws.m; sourceTree = "<group>"; };
+		D7B95EBF18DC802A00014CBD /* SSArrayOfRecorrido.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfRecorrido.h; sourceTree = "<group>"; };
+		D7B95EC018DC802A00014CBD /* SSArrayOfRecorrido.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfRecorrido.m; sourceTree = "<group>"; };
+		D7B95EC118DC802A00014CBD /* SSArrayOfRecorridows.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSArrayOfRecorridows.h; sourceTree = "<group>"; };
+		D7B95EC218DC802A00014CBD /* SSArrayOfRecorridows.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSArrayOfRecorridows.m; sourceTree = "<group>"; };
+		D7B95EC318DC802A00014CBD /* SSHermandadWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSHermandadWS.h; sourceTree = "<group>"; };
+		D7B95EC418DC802A00014CBD /* SSHermandadWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSHermandadWS.m; sourceTree = "<group>"; };
+		D7B95EC518DC802A00014CBD /* SSPatrocinadorWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPatrocinadorWS.h; sourceTree = "<group>"; };
+		D7B95EC618DC802A00014CBD /* SSPatrocinadorWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPatrocinadorWS.m; sourceTree = "<group>"; };
+		D7B95EC718DC802A00014CBD /* SSPublicidadWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPublicidadWS.h; sourceTree = "<group>"; };
+		D7B95EC818DC802A00014CBD /* SSPublicidadWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPublicidadWS.m; sourceTree = "<group>"; };
+		D7B95EC918DC802A00014CBD /* SSRecorridoWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSRecorridoWS.h; sourceTree = "<group>"; };
+		D7B95ECA18DC802A00014CBD /* SSRecorridoWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSRecorridoWS.m; sourceTree = "<group>"; };
+		D7B95ECB18DC802A00014CBD /* SSSudzc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSSudzc.h; sourceTree = "<group>"; };
+		D7B95ECC18DC802A00014CBD /* SSSudzc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSSudzc.m; sourceTree = "<group>"; };
+		D7B95ECD18DC802A00014CBD /* SSWsclassService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSWsclassService.h; sourceTree = "<group>"; };
+		D7B95ECE18DC802A00014CBD /* SSWsclassService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSWsclassService.m; sourceTree = "<group>"; };
+		D7B95ED018DC802A00014CBD /* NSData+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Base64.h"; sourceTree = "<group>"; };
+		D7B95ED118DC802A00014CBD /* NSData+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Base64.m"; sourceTree = "<group>"; };
+		D7B95ED218DC802A00014CBD /* NSMutableArray+Soap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+Soap.h"; sourceTree = "<group>"; };
+		D7B95ED318DC802A00014CBD /* NSMutableArray+Soap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+Soap.m"; sourceTree = "<group>"; };
+		D7B95ED418DC802A00014CBD /* Soap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Soap.h; sourceTree = "<group>"; };
+		D7B95ED518DC802A00014CBD /* Soap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Soap.m; sourceTree = "<group>"; };
+		D7B95ED618DC802A00014CBD /* SoapArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapArray.h; sourceTree = "<group>"; };
+		D7B95ED718DC802A00014CBD /* SoapArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapArray.m; sourceTree = "<group>"; };
+		D7B95ED818DC802A00014CBD /* SoapDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapDelegate.h; sourceTree = "<group>"; };
+		D7B95ED918DC802A00014CBD /* SoapDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapDictionary.h; sourceTree = "<group>"; };
+		D7B95EDA18DC802A00014CBD /* SoapDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapDictionary.m; sourceTree = "<group>"; };
+		D7B95EDB18DC802A00014CBD /* SoapFault.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapFault.h; sourceTree = "<group>"; };
+		D7B95EDC18DC802A00014CBD /* SoapFault.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapFault.m; sourceTree = "<group>"; };
+		D7B95EDD18DC802A00014CBD /* SoapHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapHandler.h; sourceTree = "<group>"; };
+		D7B95EDE18DC802A00014CBD /* SoapHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapHandler.m; sourceTree = "<group>"; };
+		D7B95EDF18DC802A00014CBD /* SoapLiteral.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapLiteral.h; sourceTree = "<group>"; };
+		D7B95EE018DC802A00014CBD /* SoapLiteral.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapLiteral.m; sourceTree = "<group>"; };
+		D7B95EE118DC802A00014CBD /* SoapNil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapNil.h; sourceTree = "<group>"; };
+		D7B95EE218DC802A00014CBD /* SoapNil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapNil.m; sourceTree = "<group>"; };
+		D7B95EE318DC802A00014CBD /* SoapObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapObject.h; sourceTree = "<group>"; };
+		D7B95EE418DC802A00014CBD /* SoapObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapObject.m; sourceTree = "<group>"; };
+		D7B95EE518DC802A00014CBD /* SoapParameter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapParameter.h; sourceTree = "<group>"; };
+		D7B95EE618DC802A00014CBD /* SoapParameter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapParameter.m; sourceTree = "<group>"; };
+		D7B95EE718DC802A00014CBD /* SoapReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapReachability.h; sourceTree = "<group>"; };
+		D7B95EE818DC802A00014CBD /* SoapReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapReachability.m; sourceTree = "<group>"; };
+		D7B95EE918DC802A00014CBD /* SoapRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapRequest.h; sourceTree = "<group>"; };
+		D7B95EEA18DC802A00014CBD /* SoapRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapRequest.m; sourceTree = "<group>"; };
+		D7B95EEB18DC802A00014CBD /* SoapService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoapService.h; sourceTree = "<group>"; };
+		D7B95EEC18DC802A00014CBD /* SoapService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoapService.m; sourceTree = "<group>"; };
+		D7B95EEE18DC802A00014CBD /* CTidy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTidy.h; sourceTree = "<group>"; };
+		D7B95EEF18DC802A00014CBD /* CTidy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTidy.m; sourceTree = "<group>"; };
+		D7B95EF018DC802A00014CBD /* CXHTMLDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXHTMLDocument.h; sourceTree = "<group>"; };
+		D7B95EF118DC802A00014CBD /* CXHTMLDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXHTMLDocument.m; sourceTree = "<group>"; };
+		D7B95EF218DC802A00014CBD /* CXMLDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLDocument.h; sourceTree = "<group>"; };
+		D7B95EF318DC802A00014CBD /* CXMLDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLDocument.m; sourceTree = "<group>"; };
+		D7B95EF418DC802A00014CBD /* CXMLDocument_CreationExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLDocument_CreationExtensions.h; sourceTree = "<group>"; };
+		D7B95EF518DC802A00014CBD /* CXMLDocument_CreationExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLDocument_CreationExtensions.m; sourceTree = "<group>"; };
+		D7B95EF618DC802A00014CBD /* CXMLDocument_PrivateExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLDocument_PrivateExtensions.h; sourceTree = "<group>"; };
+		D7B95EF718DC802A00014CBD /* CXMLDocument_PrivateExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLDocument_PrivateExtensions.m; sourceTree = "<group>"; };
+		D7B95EF818DC802A00014CBD /* CXMLElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLElement.h; sourceTree = "<group>"; };
+		D7B95EF918DC802A00014CBD /* CXMLElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLElement.m; sourceTree = "<group>"; };
+		D7B95EFA18DC802A00014CBD /* CXMLElement_CreationExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLElement_CreationExtensions.h; sourceTree = "<group>"; };
+		D7B95EFB18DC802A00014CBD /* CXMLElement_CreationExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLElement_CreationExtensions.m; sourceTree = "<group>"; };
+		D7B95EFC18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLElement_ElementTreeExtensions.h; sourceTree = "<group>"; };
+		D7B95EFD18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLElement_ElementTreeExtensions.m; sourceTree = "<group>"; };
+		D7B95EFE18DC802A00014CBD /* CXMLNamespaceNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNamespaceNode.h; sourceTree = "<group>"; };
+		D7B95EFF18DC802A00014CBD /* CXMLNamespaceNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNamespaceNode.m; sourceTree = "<group>"; };
+		D7B95F0018DC802A00014CBD /* CXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode.h; sourceTree = "<group>"; };
+		D7B95F0118DC802A00014CBD /* CXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode.m; sourceTree = "<group>"; };
+		D7B95F0218DC802A00014CBD /* CXMLNode_CreationExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode_CreationExtensions.h; sourceTree = "<group>"; };
+		D7B95F0318DC802A00014CBD /* CXMLNode_CreationExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode_CreationExtensions.m; sourceTree = "<group>"; };
+		D7B95F0418DC802A00014CBD /* CXMLNode_PrivateExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode_PrivateExtensions.h; sourceTree = "<group>"; };
+		D7B95F0518DC802A00014CBD /* CXMLNode_PrivateExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode_PrivateExtensions.m; sourceTree = "<group>"; };
+		D7B95F0618DC802A00014CBD /* CXMLNode_XPathExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CXMLNode_XPathExtensions.h; sourceTree = "<group>"; };
+		D7B95F0718DC802A00014CBD /* CXMLNode_XPathExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CXMLNode_XPathExtensions.m; sourceTree = "<group>"; };
+		D7B95F0818DC802A00014CBD /* TouchXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchXML.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -259,10 +259,7 @@
 		3803C55E18D2FFC2007D6A32 = {
 			isa = PBXGroup;
 			children = (
-				D7B95E2A18DC72B700014CBD /* Examples */,
-				D7B95DAD18DC72A800014CBD /* Generated */,
-				D7B95DC818DC72A900014CBD /* Soap */,
-				D7B95DE618DC72A900014CBD /* TouchXML */,
+				D7B95EB018DC802A00014CBD /* WS */,
 				38BBDF8F18D4DDCF00A2E9AF /* BaseDatos */,
 				3803C57218D2FFC2007D6A32 /* SemanaSantaApp */,
 				3803C5F118D32004007D6A32 /* twitter */,
@@ -405,116 +402,128 @@
 			path = SemanaSantaApp;
 			sourceTree = "<group>";
 		};
-		D7B95DAD18DC72A800014CBD /* Generated */ = {
+		D7B95EB018DC802A00014CBD /* WS */ = {
 			isa = PBXGroup;
 			children = (
-				D7B95DAE18DC72A900014CBD /* Soap+Prefix.h */,
-				D7B95DAF18DC72A900014CBD /* Soap+Prefix.m */,
-				D7B95DB018DC72A900014CBD /* SSArrayOfHermandad.h */,
-				D7B95DB118DC72A900014CBD /* SSArrayOfHermandad.m */,
-				D7B95DB218DC72A900014CBD /* SSArrayOfHermandadws.h */,
-				D7B95DB318DC72A900014CBD /* SSArrayOfHermandadws.m */,
-				D7B95DB418DC72A900014CBD /* SSArrayOfPublicidad.h */,
-				D7B95DB518DC72A900014CBD /* SSArrayOfPublicidad.m */,
-				D7B95DB618DC72A900014CBD /* SSArrayOfPublicidadws.h */,
-				D7B95DB718DC72A900014CBD /* SSArrayOfPublicidadws.m */,
-				D7B95DB818DC72A900014CBD /* SSArrayOfRecorrido.h */,
-				D7B95DB918DC72A900014CBD /* SSArrayOfRecorrido.m */,
-				D7B95DBA18DC72A900014CBD /* SSArrayOfRecorridows.h */,
-				D7B95DBB18DC72A900014CBD /* SSArrayOfRecorridows.m */,
-				D7B95DBC18DC72A900014CBD /* SSHermandadWS.h */,
-				D7B95DBD18DC72A900014CBD /* SSHermandadWS.m */,
-				D7B95DBE18DC72A900014CBD /* SSPatrocinadorWS.h */,
-				D7B95DBF18DC72A900014CBD /* SSPatrocinadorWS.m */,
-				D7B95DC018DC72A900014CBD /* SSPublicidadWS.h */,
-				D7B95DC118DC72A900014CBD /* SSPublicidadWS.m */,
-				D7B95DC218DC72A900014CBD /* SSRecorridoWS.h */,
-				D7B95DC318DC72A900014CBD /* SSRecorridoWS.m */,
-				D7B95DC418DC72A900014CBD /* SSSudzc.h */,
-				D7B95DC518DC72A900014CBD /* SSSudzc.m */,
-				D7B95DC618DC72A900014CBD /* SSWsclassService.h */,
-				D7B95DC718DC72A900014CBD /* SSWsclassService.m */,
+				D7B95EB118DC802A00014CBD /* Examples */,
+				D7B95EB418DC802A00014CBD /* Generated */,
+				D7B95ECF18DC802A00014CBD /* Soap */,
+				D7B95EED18DC802A00014CBD /* TouchXML */,
+			);
+			name = WS;
+			path = Source;
+			sourceTree = "<group>";
+		};
+		D7B95EB118DC802A00014CBD /* Examples */ = {
+			isa = PBXGroup;
+			children = (
+				D7B95EB218DC802A00014CBD /* SSWsclassServiceExample.h */,
+				D7B95EB318DC802A00014CBD /* SSWsclassServiceExample.m */,
+			);
+			path = Examples;
+			sourceTree = "<group>";
+		};
+		D7B95EB418DC802A00014CBD /* Generated */ = {
+			isa = PBXGroup;
+			children = (
+				D7B95EB518DC802A00014CBD /* Soap+Prefix.h */,
+				D7B95EB618DC802A00014CBD /* Soap+Prefix.m */,
+				D7B95EB718DC802A00014CBD /* SSArrayOfHermandad.h */,
+				D7B95EB818DC802A00014CBD /* SSArrayOfHermandad.m */,
+				D7B95EB918DC802A00014CBD /* SSArrayOfHermandadws.h */,
+				D7B95EBA18DC802A00014CBD /* SSArrayOfHermandadws.m */,
+				D7B95EBB18DC802A00014CBD /* SSArrayOfPublicidad.h */,
+				D7B95EBC18DC802A00014CBD /* SSArrayOfPublicidad.m */,
+				D7B95EBD18DC802A00014CBD /* SSArrayOfPublicidadws.h */,
+				D7B95EBE18DC802A00014CBD /* SSArrayOfPublicidadws.m */,
+				D7B95EBF18DC802A00014CBD /* SSArrayOfRecorrido.h */,
+				D7B95EC018DC802A00014CBD /* SSArrayOfRecorrido.m */,
+				D7B95EC118DC802A00014CBD /* SSArrayOfRecorridows.h */,
+				D7B95EC218DC802A00014CBD /* SSArrayOfRecorridows.m */,
+				D7B95EC318DC802A00014CBD /* SSHermandadWS.h */,
+				D7B95EC418DC802A00014CBD /* SSHermandadWS.m */,
+				D7B95EC518DC802A00014CBD /* SSPatrocinadorWS.h */,
+				D7B95EC618DC802A00014CBD /* SSPatrocinadorWS.m */,
+				D7B95EC718DC802A00014CBD /* SSPublicidadWS.h */,
+				D7B95EC818DC802A00014CBD /* SSPublicidadWS.m */,
+				D7B95EC918DC802A00014CBD /* SSRecorridoWS.h */,
+				D7B95ECA18DC802A00014CBD /* SSRecorridoWS.m */,
+				D7B95ECB18DC802A00014CBD /* SSSudzc.h */,
+				D7B95ECC18DC802A00014CBD /* SSSudzc.m */,
+				D7B95ECD18DC802A00014CBD /* SSWsclassService.h */,
+				D7B95ECE18DC802A00014CBD /* SSWsclassService.m */,
 			);
 			path = Generated;
 			sourceTree = "<group>";
 		};
-		D7B95DC818DC72A900014CBD /* Soap */ = {
+		D7B95ECF18DC802A00014CBD /* Soap */ = {
 			isa = PBXGroup;
 			children = (
-				D7B95DC918DC72A900014CBD /* NSData+Base64.h */,
-				D7B95DCA18DC72A900014CBD /* NSData+Base64.m */,
-				D7B95DCB18DC72A900014CBD /* NSMutableArray+Soap.h */,
-				D7B95DCC18DC72A900014CBD /* NSMutableArray+Soap.m */,
-				D7B95DCD18DC72A900014CBD /* Soap.h */,
-				D7B95DCE18DC72A900014CBD /* Soap.m */,
-				D7B95DCF18DC72A900014CBD /* SoapArray.h */,
-				D7B95DD018DC72A900014CBD /* SoapArray.m */,
-				D7B95DD118DC72A900014CBD /* SoapDelegate.h */,
-				D7B95DD218DC72A900014CBD /* SoapDictionary.h */,
-				D7B95DD318DC72A900014CBD /* SoapDictionary.m */,
-				D7B95DD418DC72A900014CBD /* SoapFault.h */,
-				D7B95DD518DC72A900014CBD /* SoapFault.m */,
-				D7B95DD618DC72A900014CBD /* SoapHandler.h */,
-				D7B95DD718DC72A900014CBD /* SoapHandler.m */,
-				D7B95DD818DC72A900014CBD /* SoapLiteral.h */,
-				D7B95DD918DC72A900014CBD /* SoapLiteral.m */,
-				D7B95DDA18DC72A900014CBD /* SoapNil.h */,
-				D7B95DDB18DC72A900014CBD /* SoapNil.m */,
-				D7B95DDC18DC72A900014CBD /* SoapObject.h */,
-				D7B95DDD18DC72A900014CBD /* SoapObject.m */,
-				D7B95DDE18DC72A900014CBD /* SoapParameter.h */,
-				D7B95DDF18DC72A900014CBD /* SoapParameter.m */,
-				D7B95DE018DC72A900014CBD /* SoapReachability.h */,
-				D7B95DE118DC72A900014CBD /* SoapReachability.m */,
-				D7B95DE218DC72A900014CBD /* SoapRequest.h */,
-				D7B95DE318DC72A900014CBD /* SoapRequest.m */,
-				D7B95DE418DC72A900014CBD /* SoapService.h */,
-				D7B95DE518DC72A900014CBD /* SoapService.m */,
+				D7B95ED018DC802A00014CBD /* NSData+Base64.h */,
+				D7B95ED118DC802A00014CBD /* NSData+Base64.m */,
+				D7B95ED218DC802A00014CBD /* NSMutableArray+Soap.h */,
+				D7B95ED318DC802A00014CBD /* NSMutableArray+Soap.m */,
+				D7B95ED418DC802A00014CBD /* Soap.h */,
+				D7B95ED518DC802A00014CBD /* Soap.m */,
+				D7B95ED618DC802A00014CBD /* SoapArray.h */,
+				D7B95ED718DC802A00014CBD /* SoapArray.m */,
+				D7B95ED818DC802A00014CBD /* SoapDelegate.h */,
+				D7B95ED918DC802A00014CBD /* SoapDictionary.h */,
+				D7B95EDA18DC802A00014CBD /* SoapDictionary.m */,
+				D7B95EDB18DC802A00014CBD /* SoapFault.h */,
+				D7B95EDC18DC802A00014CBD /* SoapFault.m */,
+				D7B95EDD18DC802A00014CBD /* SoapHandler.h */,
+				D7B95EDE18DC802A00014CBD /* SoapHandler.m */,
+				D7B95EDF18DC802A00014CBD /* SoapLiteral.h */,
+				D7B95EE018DC802A00014CBD /* SoapLiteral.m */,
+				D7B95EE118DC802A00014CBD /* SoapNil.h */,
+				D7B95EE218DC802A00014CBD /* SoapNil.m */,
+				D7B95EE318DC802A00014CBD /* SoapObject.h */,
+				D7B95EE418DC802A00014CBD /* SoapObject.m */,
+				D7B95EE518DC802A00014CBD /* SoapParameter.h */,
+				D7B95EE618DC802A00014CBD /* SoapParameter.m */,
+				D7B95EE718DC802A00014CBD /* SoapReachability.h */,
+				D7B95EE818DC802A00014CBD /* SoapReachability.m */,
+				D7B95EE918DC802A00014CBD /* SoapRequest.h */,
+				D7B95EEA18DC802A00014CBD /* SoapRequest.m */,
+				D7B95EEB18DC802A00014CBD /* SoapService.h */,
+				D7B95EEC18DC802A00014CBD /* SoapService.m */,
 			);
 			path = Soap;
 			sourceTree = "<group>";
 		};
-		D7B95DE618DC72A900014CBD /* TouchXML */ = {
+		D7B95EED18DC802A00014CBD /* TouchXML */ = {
 			isa = PBXGroup;
 			children = (
-				D7B95DE718DC72A900014CBD /* CTidy.h */,
-				D7B95DE818DC72A900014CBD /* CTidy.m */,
-				D7B95DE918DC72A900014CBD /* CXHTMLDocument.h */,
-				D7B95DEA18DC72A900014CBD /* CXHTMLDocument.m */,
-				D7B95DEB18DC72A900014CBD /* CXMLDocument.h */,
-				D7B95DEC18DC72A900014CBD /* CXMLDocument.m */,
-				D7B95DED18DC72A900014CBD /* CXMLDocument_CreationExtensions.h */,
-				D7B95DEE18DC72A900014CBD /* CXMLDocument_CreationExtensions.m */,
-				D7B95DEF18DC72A900014CBD /* CXMLDocument_PrivateExtensions.h */,
-				D7B95DF018DC72A900014CBD /* CXMLDocument_PrivateExtensions.m */,
-				D7B95DF118DC72A900014CBD /* CXMLElement.h */,
-				D7B95DF218DC72A900014CBD /* CXMLElement.m */,
-				D7B95DF318DC72A900014CBD /* CXMLElement_CreationExtensions.h */,
-				D7B95DF418DC72A900014CBD /* CXMLElement_CreationExtensions.m */,
-				D7B95DF518DC72A900014CBD /* CXMLElement_ElementTreeExtensions.h */,
-				D7B95DF618DC72A900014CBD /* CXMLElement_ElementTreeExtensions.m */,
-				D7B95DF718DC72A900014CBD /* CXMLNamespaceNode.h */,
-				D7B95DF818DC72A900014CBD /* CXMLNamespaceNode.m */,
-				D7B95DF918DC72A900014CBD /* CXMLNode.h */,
-				D7B95DFA18DC72A900014CBD /* CXMLNode.m */,
-				D7B95DFB18DC72A900014CBD /* CXMLNode_CreationExtensions.h */,
-				D7B95DFC18DC72A900014CBD /* CXMLNode_CreationExtensions.m */,
-				D7B95DFD18DC72A900014CBD /* CXMLNode_PrivateExtensions.h */,
-				D7B95DFE18DC72A900014CBD /* CXMLNode_PrivateExtensions.m */,
-				D7B95DFF18DC72A900014CBD /* CXMLNode_XPathExtensions.h */,
-				D7B95E0018DC72A900014CBD /* CXMLNode_XPathExtensions.m */,
-				D7B95E0118DC72A900014CBD /* TouchXML.h */,
+				D7B95EEE18DC802A00014CBD /* CTidy.h */,
+				D7B95EEF18DC802A00014CBD /* CTidy.m */,
+				D7B95EF018DC802A00014CBD /* CXHTMLDocument.h */,
+				D7B95EF118DC802A00014CBD /* CXHTMLDocument.m */,
+				D7B95EF218DC802A00014CBD /* CXMLDocument.h */,
+				D7B95EF318DC802A00014CBD /* CXMLDocument.m */,
+				D7B95EF418DC802A00014CBD /* CXMLDocument_CreationExtensions.h */,
+				D7B95EF518DC802A00014CBD /* CXMLDocument_CreationExtensions.m */,
+				D7B95EF618DC802A00014CBD /* CXMLDocument_PrivateExtensions.h */,
+				D7B95EF718DC802A00014CBD /* CXMLDocument_PrivateExtensions.m */,
+				D7B95EF818DC802A00014CBD /* CXMLElement.h */,
+				D7B95EF918DC802A00014CBD /* CXMLElement.m */,
+				D7B95EFA18DC802A00014CBD /* CXMLElement_CreationExtensions.h */,
+				D7B95EFB18DC802A00014CBD /* CXMLElement_CreationExtensions.m */,
+				D7B95EFC18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.h */,
+				D7B95EFD18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.m */,
+				D7B95EFE18DC802A00014CBD /* CXMLNamespaceNode.h */,
+				D7B95EFF18DC802A00014CBD /* CXMLNamespaceNode.m */,
+				D7B95F0018DC802A00014CBD /* CXMLNode.h */,
+				D7B95F0118DC802A00014CBD /* CXMLNode.m */,
+				D7B95F0218DC802A00014CBD /* CXMLNode_CreationExtensions.h */,
+				D7B95F0318DC802A00014CBD /* CXMLNode_CreationExtensions.m */,
+				D7B95F0418DC802A00014CBD /* CXMLNode_PrivateExtensions.h */,
+				D7B95F0518DC802A00014CBD /* CXMLNode_PrivateExtensions.m */,
+				D7B95F0618DC802A00014CBD /* CXMLNode_XPathExtensions.h */,
+				D7B95F0718DC802A00014CBD /* CXMLNode_XPathExtensions.m */,
+				D7B95F0818DC802A00014CBD /* TouchXML.h */,
 			);
 			path = TouchXML;
-			sourceTree = "<group>";
-		};
-		D7B95E2A18DC72B700014CBD /* Examples */ = {
-			isa = PBXGroup;
-			children = (
-				D7B95E2B18DC72B700014CBD /* SSWsclassServiceExample.h */,
-				D7B95E2C18DC72B700014CBD /* SSWsclassServiceExample.m */,
-			);
-			path = Examples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -620,61 +629,61 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7B95F2918DC802A00014CBD /* CXMLDocument_PrivateExtensions.m in Sources */,
+				D7B95F2518DC802A00014CBD /* CTidy.m in Sources */,
 				3830D32818D568C000CA9770 /* SSdatosHermandadViewController.m in Sources */,
-				D7B95E2018DC72A900014CBD /* CXMLDocument_CreationExtensions.m in Sources */,
-				D7B95E1818DC72A900014CBD /* SoapObject.m in Sources */,
-				D7B95E0D18DC72A900014CBD /* SSSudzc.m in Sources */,
+				D7B95F3018DC802A00014CBD /* CXMLNode_PrivateExtensions.m in Sources */,
+				D7B95F1D18DC802A00014CBD /* SoapHandler.m in Sources */,
 				38B24FED18D62AED00BE991F /* SStwitterViewController.m in Sources */,
-				D7B95E0818DC72A900014CBD /* SSArrayOfRecorridows.m in Sources */,
-				D7B95E0718DC72A900014CBD /* SSArrayOfRecorrido.m in Sources */,
-				D7B95E0B18DC72A900014CBD /* SSPublicidadWS.m in Sources */,
-				D7B95E1C18DC72A900014CBD /* SoapService.m in Sources */,
+				D7B95F1F18DC802A00014CBD /* SoapNil.m in Sources */,
+				D7B95F2A18DC802A00014CBD /* CXMLElement.m in Sources */,
+				D7B95F2E18DC802A00014CBD /* CXMLNode.m in Sources */,
+				D7B95F1818DC802A00014CBD /* NSMutableArray+Soap.m in Sources */,
+				D7B95F1B18DC802A00014CBD /* SoapDictionary.m in Sources */,
 				38F66F8018D86B130070CE9B /* Dias.m in Sources */,
+				D7B95F0F18DC802A00014CBD /* SSArrayOfRecorrido.m in Sources */,
 				38F66F7718D86B120070CE9B /* Hermandades.m in Sources */,
-				D7B95E0418DC72A900014CBD /* SSArrayOfHermandadws.m in Sources */,
-				D7B95E1A18DC72A900014CBD /* SoapReachability.m in Sources */,
-				D7B95E1618DC72A900014CBD /* SoapLiteral.m in Sources */,
+				D7B95F2218DC802A00014CBD /* SoapReachability.m in Sources */,
+				D7B95F2F18DC802A00014CBD /* CXMLNode_CreationExtensions.m in Sources */,
+				D7B95F0A18DC802A00014CBD /* Soap+Prefix.m in Sources */,
+				D7B95F1518DC802A00014CBD /* SSSudzc.m in Sources */,
 				3803C5F818D32436007D6A32 /* SSenlacesViewController.m in Sources */,
 				38F66F7D18D86B130070CE9B /* Recorrido.m in Sources */,
+				D7B95F2C18DC802A00014CBD /* CXMLElement_ElementTreeExtensions.m in Sources */,
 				383BCF9918D711C80053FCC2 /* SSrecorridoViewController.m in Sources */,
-				D7B95E2218DC72A900014CBD /* CXMLElement.m in Sources */,
-				D7B95E2718DC72A900014CBD /* CXMLNode_CreationExtensions.m in Sources */,
-				D7B95E1918DC72A900014CBD /* SoapParameter.m in Sources */,
+				D7B95F1418DC802A00014CBD /* SSRecorridoWS.m in Sources */,
 				38B24FF018D62FC700BE991F /* SSenlacesWebViewController.m in Sources */,
+				D7B95F1618DC802A00014CBD /* SSWsclassService.m in Sources */,
+				D7B95F1C18DC802A00014CBD /* SoapFault.m in Sources */,
 				38F66F7A18D86B130070CE9B /* Publicidad.m in Sources */,
+				D7B95F1218DC802A00014CBD /* SSPatrocinadorWS.m in Sources */,
+				D7B95F0D18DC802A00014CBD /* SSArrayOfPublicidad.m in Sources */,
+				D7B95F0E18DC802A00014CBD /* SSArrayOfPublicidadws.m in Sources */,
+				D7B95F0B18DC802A00014CBD /* SSArrayOfHermandad.m in Sources */,
+				D7B95F2418DC802A00014CBD /* SoapService.m in Sources */,
+				D7B95F2718DC802A00014CBD /* CXMLDocument.m in Sources */,
 				3803C5A318D307BA007D6A32 /* SSdiasViewController.m in Sources */,
-				D7B95E1018DC72A900014CBD /* NSMutableArray+Soap.m in Sources */,
-				D7B95E2618DC72A900014CBD /* CXMLNode.m in Sources */,
-				D7B95E1B18DC72A900014CBD /* SoapRequest.m in Sources */,
+				D7B95F2318DC802A00014CBD /* SoapRequest.m in Sources */,
 				3803C57D18D2FFC2007D6A32 /* SSAppDelegate.m in Sources */,
 				3803C57918D2FFC2007D6A32 /* main.m in Sources */,
-				D7B95E0F18DC72A900014CBD /* NSData+Base64.m in Sources */,
-				D7B95E2918DC72A900014CBD /* CXMLNode_XPathExtensions.m in Sources */,
-				D7B95E1518DC72A900014CBD /* SoapHandler.m in Sources */,
+				D7B95F0918DC802A00014CBD /* SSWsclassServiceExample.m in Sources */,
+				D7B95F3118DC802A00014CBD /* CXMLNode_XPathExtensions.m in Sources */,
+				D7B95F2118DC802A00014CBD /* SoapParameter.m in Sources */,
 				3803C58018D2FFC2007D6A32 /* SemanaSantaApp.xcdatamodeld in Sources */,
-				D7B95E1318DC72A900014CBD /* SoapDictionary.m in Sources */,
-				D7B95E1118DC72A900014CBD /* Soap.m in Sources */,
-				D7B95E2518DC72A900014CBD /* CXMLNamespaceNode.m in Sources */,
-				D7B95E1218DC72A900014CBD /* SoapArray.m in Sources */,
-				D7B95E2418DC72A900014CBD /* CXMLElement_ElementTreeExtensions.m in Sources */,
-				D7B95E2818DC72A900014CBD /* CXMLNode_PrivateExtensions.m in Sources */,
-				D7B95E1418DC72A900014CBD /* SoapFault.m in Sources */,
-				D7B95E1718DC72A900014CBD /* SoapNil.m in Sources */,
-				D7B95E1E18DC72A900014CBD /* CXHTMLDocument.m in Sources */,
-				D7B95E2118DC72A900014CBD /* CXMLDocument_PrivateExtensions.m in Sources */,
-				D7B95E0E18DC72A900014CBD /* SSWsclassService.m in Sources */,
-				D7B95E0C18DC72A900014CBD /* SSRecorridoWS.m in Sources */,
-				D7B95E0918DC72A900014CBD /* SSHermandadWS.m in Sources */,
-				D7B95E0318DC72A900014CBD /* SSArrayOfHermandad.m in Sources */,
-				D7B95E0518DC72A900014CBD /* SSArrayOfPublicidad.m in Sources */,
-				D7B95E0218DC72A900014CBD /* Soap+Prefix.m in Sources */,
-				D7B95E2318DC72A900014CBD /* CXMLElement_CreationExtensions.m in Sources */,
-				D7B95E0618DC72A900014CBD /* SSArrayOfPublicidadws.m in Sources */,
-				D7B95E1F18DC72A900014CBD /* CXMLDocument.m in Sources */,
-				D7B95E1D18DC72A900014CBD /* CTidy.m in Sources */,
-				D7B95E2D18DC72B700014CBD /* SSWsclassServiceExample.m in Sources */,
-				D7B95E0A18DC72A900014CBD /* SSPatrocinadorWS.m in Sources */,
+				D7B95F2B18DC802A00014CBD /* CXMLElement_CreationExtensions.m in Sources */,
+				D7B95F1A18DC802A00014CBD /* SoapArray.m in Sources */,
+				D7B95F1E18DC802A00014CBD /* SoapLiteral.m in Sources */,
 				3830D32518D53D3300CA9770 /* SShermandadesViewController.m in Sources */,
+				D7B95F2818DC802A00014CBD /* CXMLDocument_CreationExtensions.m in Sources */,
+				D7B95F1118DC802A00014CBD /* SSHermandadWS.m in Sources */,
+				D7B95F1318DC802A00014CBD /* SSPublicidadWS.m in Sources */,
+				D7B95F2018DC802A00014CBD /* SoapObject.m in Sources */,
+				D7B95F1018DC802A00014CBD /* SSArrayOfRecorridows.m in Sources */,
+				D7B95F1918DC802A00014CBD /* Soap.m in Sources */,
+				D7B95F1718DC802A00014CBD /* NSData+Base64.m in Sources */,
+				D7B95F2618DC802A00014CBD /* CXHTMLDocument.m in Sources */,
+				D7B95F0C18DC802A00014CBD /* SSArrayOfHermandadws.m in Sources */,
+				D7B95F2D18DC802A00014CBD /* CXMLNamespaceNode.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

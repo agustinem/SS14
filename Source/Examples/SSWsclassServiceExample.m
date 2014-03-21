@@ -26,7 +26,7 @@
 
 	// Returns SSArrayOfPublicidad*
 	/* Obtiene las publicidades */
-	[service getPublicidades:self action:@selector(getPublicidadesHandler:) offset: 0];
+	[service getPublicidades:self action:@selector(getPublicidadesHandler:) offset: 0 lastId: 0];
 
 	// Returns SSArrayOfRecorrido*
 	/* Obtiene los recorridos */
