@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>5DA0ADCB-0C93-4FD6-B6C5-AD94A715A9AF</string>
+	<string>A90BBA9B-E353-4D2D-ABFC-6EFBC435D745</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SemanaSantaApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D58B2DEF-AE3B-4A8D-B26F-9C38E4B05D5D</key>
-		<string>https://github.com/Vilachao/SemanaSantaApp2.git</string>
+		<key>6E2B272A-7447-46E0-8247-253B1EB0C638</key>
+		<string>https://github.com/agustinem/SS14.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SemanaSantaApp.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D58B2DEF-AE3B-4A8D-B26F-9C38E4B05D5D</key>
+		<key>6E2B272A-7447-46E0-8247-253B1EB0C638</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Vilachao/SemanaSantaApp2.git</string>
+	<string>https://github.com/agustinem/SS14.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D58B2DEF-AE3B-4A8D-B26F-9C38E4B05D5D</string>
+	<string>6E2B272A-7447-46E0-8247-253B1EB0C638</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D58B2DEF-AE3B-4A8D-B26F-9C38E4B05D5D</string>
+			<string>6E2B272A-7447-46E0-8247-253B1EB0C638</string>
 			<key>IDESourceControlWCCName</key>
-			<string>SemanaSantaApp2</string>
+			<string>SS14</string>
 		</dict>
 	</array>
 </dict>
