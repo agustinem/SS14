@@ -27,6 +27,7 @@
 		3803C5EC18D31B76007D6A32 /* radio.png in Resources */ = {isa = PBXBuildFile; fileRef = 3803C5EB18D31B76007D6A32 /* radio.png */; };
 		3803C5EE18D31CA6007D6A32 /* cecop.png in Resources */ = {isa = PBXBuildFile; fileRef = 3803C5ED18D31CA6007D6A32 /* cecop.png */; };
 		3803C5F818D32436007D6A32 /* SSenlacesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3803C5F718D32436007D6A32 /* SSenlacesViewController.m */; };
+		3827B6BE18DC7C83009B2C9C /* IniciarBaseDatos.m in Sources */ = {isa = PBXBuildFile; fileRef = 3827B6BD18DC7C83009B2C9C /* IniciarBaseDatos.m */; };
 		3830D32518D53D3300CA9770 /* SShermandadesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3830D32418D53D3300CA9770 /* SShermandadesViewController.m */; };
 		3830D32818D568C000CA9770 /* SSdatosHermandadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3830D32718D568C000CA9770 /* SSdatosHermandadViewController.m */; };
 		383BCF9918D711C80053FCC2 /* SSrecorridoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BCF9818D711C80053FCC2 /* SSrecorridoViewController.m */; };
@@ -120,6 +121,8 @@
 		3803C5ED18D31CA6007D6A32 /* cecop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cecop.png; sourceTree = "<group>"; };
 		3803C5F618D32436007D6A32 /* SSenlacesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSenlacesViewController.h; sourceTree = "<group>"; };
 		3803C5F718D32436007D6A32 /* SSenlacesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSenlacesViewController.m; sourceTree = "<group>"; };
+		3827B6BC18DC7C83009B2C9C /* IniciarBaseDatos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IniciarBaseDatos.h; sourceTree = "<group>"; };
+		3827B6BD18DC7C83009B2C9C /* IniciarBaseDatos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IniciarBaseDatos.m; sourceTree = "<group>"; };
 		3830D32318D53D3300CA9770 /* SShermandadesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SShermandadesViewController.h; sourceTree = "<group>"; };
 		3830D32418D53D3300CA9770 /* SShermandadesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SShermandadesViewController.m; sourceTree = "<group>"; };
 		3830D32618D568C000CA9770 /* SSdatosHermandadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSdatosHermandadViewController.h; sourceTree = "<group>"; };
@@ -392,6 +395,8 @@
 		38BBDF8F18D4DDCF00A2E9AF /* BaseDatos */ = {
 			isa = PBXGroup;
 			children = (
+				3827B6BC18DC7C83009B2C9C /* IniciarBaseDatos.h */,
+				3827B6BD18DC7C83009B2C9C /* IniciarBaseDatos.m */,
 				38F66F7E18D86B130070CE9B /* Dias.h */,
 				38F66F7F18D86B130070CE9B /* Dias.m */,
 				38F66F7B18D86B130070CE9B /* Recorrido.h */,
@@ -638,6 +643,7 @@
 				38F66F7D18D86B130070CE9B /* Recorrido.m in Sources */,
 				383BCF9918D711C80053FCC2 /* SSrecorridoViewController.m in Sources */,
 				D7B95E2218DC72A900014CBD /* CXMLElement.m in Sources */,
+				3827B6BE18DC7C83009B2C9C /* IniciarBaseDatos.m in Sources */,
 				D7B95E2718DC72A900014CBD /* CXMLNode_CreationExtensions.m in Sources */,
 				D7B95E1918DC72A900014CBD /* SoapParameter.m in Sources */,
 				38B24FF018D62FC700BE991F /* SSenlacesWebViewController.m in Sources */,
